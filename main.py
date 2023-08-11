@@ -7,7 +7,7 @@ import tkinter.font as tkFont
 
 window = Tk()
 window.resizable(False, False)
-window.geometry("720x580")
+window.geometry("720x560")
 window.title("Diet and Fitness")
 window.configure(bg="white")
 window.wm_iconbitmap("icon.ico")
